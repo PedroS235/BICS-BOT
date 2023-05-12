@@ -1,9 +1,10 @@
+### This repo is now archived. For any future changes please check out [this](https://github.com/Luxembourg-Open-Source-Club/BICS-BOT) repo which will now take over control of it.
 # BICS-BOT 🤖
 The **BICS bot's** source code may be found in this repository. Its primary goal is to automate the BICS server and provide users and students with a variety of ways to communicate with it.
 
 The bot now supports text channel instructions including **help,** **role attribution**, and **enrolment/unenrolment** to courses.
 
-**This repo is now archived. For any future changes please check out [this](https://github.com/Luxembourg-Open-Source-Club/BICS-BOT) repo which will now take over control of it.**
+
 
 ## Table of Contents
 - [Getting Started](#getting-started)

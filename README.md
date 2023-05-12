@@ -3,6 +3,8 @@ The **BICS bot's** source code may be found in this repository. Its primary goal
 
 The bot now supports text channel instructions including **help,** **role attribution**, and **enrolment/unenrolment** to courses.
 
+**This repo is now archived. For any future changes please check out [this](https://github.com/Luxembourg-Open-Source-Club/BICS-BOT) repo which will now take over control of it.**
+
 ## Table of Contents
 - [Getting Started](#getting-started)
     - [Initial Setup](#initial-setup)
